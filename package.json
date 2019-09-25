@@ -1,0 +1,11 @@
+{
+  "name": "civ6707a_react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kaligrafy/civ6707a_react",
+  "author": "Pierre-Léo Bourbonnais <leo.bourbonnais@polymtl.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.9.0"
+  }
+}
