@@ -10,7 +10,10 @@ class Section extends React.Component {
   render() {
 
     return (
-      <p>{this.props.title}</p>
+      <div>
+        <p>{this.props.title}</p>
+        {this.props.children}
+      </div>
     );
 
   }

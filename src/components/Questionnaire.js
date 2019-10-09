@@ -1,6 +1,7 @@
 import React from 'react';
 
-import Section from './Section';
+import Section  from './Section';
+import MapInput from './inputs/MapInput';
 
 class Questionnaire extends React.Component {
 
@@ -35,6 +36,9 @@ class Questionnaire extends React.Component {
         <Section title={this.state.interview.age !== undefined ? this.state.interview.age : '...'}/>
         <Section title={this.state.interview.name} />
         <Section title={this.state.interview.gender} />
+        <Section title="Carte">
+          <MapInput />
+        </Section>
       </div>
     );
 
