@@ -2,9 +2,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Boite from './Boite';
+import Questionnaire from './components/Questionnaire';
 
 ReactDOM.render(
-  <Boite />,
+  <Questionnaire />,
   document.getElementById('container')
 );

@@ -1,0 +1,12 @@
+{
+  "test@test.test": {
+    "age": 234,
+    "gender": "F",
+    "name": "Géraldine Poirier"
+  },
+  "test2@test.test": {
+    "age": 12,
+    "gender": "M",
+    "name": "Bobino Poirier"
+  }
+}
