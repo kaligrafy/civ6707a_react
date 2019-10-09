@@ -62,4 +62,4 @@ typings/
 
 dist/main.js
 .DS_Store
-*/.DS_Store
+**/.DS_Store
