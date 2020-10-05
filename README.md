@@ -4,6 +4,7 @@
   * ```git clone https://github.com/kaligrafy/civ6707a_react```
 * Installer les modules via yarn:
   * ```yarn install```
+* Créer un fichier .env et y ajouter MAPBOX_ACCESS_TOKEN=VOTRE_CLE_MAPBOX
 * Démarrer webpack pour générer le fichier js compatible avec tous les navigateurs
   * ```yarn webpack```
 * Ouvrir le fichier /dist/index.html dans Chrome ou Firefox
